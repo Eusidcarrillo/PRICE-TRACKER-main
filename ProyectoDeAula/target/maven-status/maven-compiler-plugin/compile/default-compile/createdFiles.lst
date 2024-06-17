@@ -1,0 +1,16 @@
+Logica\LogicaUsuario.class
+Entidades\Usuario.class
+Entidades\Producto.class
+com\mycompany\proyectodeaula\PrimaryController.class
+Logica\Logica.class
+Entidades\Observador.class
+Persistencia\ArchivoObjeto.class
+com\mycompany\proyectodeaula\App.class
+com\mycompany\proyectodeaula\PreloginController.class
+Entidades\Proveedor.class
+Persistencia\Ifunciones.class
+com\mycompany\proyectodeaula\SecondaryController.class
+com\mycompany\proyectodeaula\RegistroController.class
+com\mycompany\proyectodeaula\MenuController.class
+Persistencia\RegistroProducto.class
+Entidades\Admin.class
